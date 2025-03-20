@@ -1,4 +1,6 @@
-Use basic functions to do basic operations, find prime number or not and print the numbers 1 to 10 using recursive method
+Use basic functions to do basic operations, find prime number or not 
+and print the numbers 1 to 10 using recursive method
+
 ![Function_Output](https://github.com/user-attachments/assets/92c6d3dc-b71f-4da9-9f36-23d60d3d4fd5)
 
 
